@@ -1,10 +1,4 @@
 # Katalon API & Kafka Automation
-
-This project demonstrates automation testing for:
-
-1. REST API testing (GoRest)
-2. Kafka message consumption (Event-driven testing)
-
 ---
 
 ## Part 1 – REST API Testing
