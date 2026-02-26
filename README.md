@@ -58,10 +58,7 @@ Send:
 
 ---
 
-### Run Kafka Test
-
-Run:
-Test Cases/kafka/001_TC_ConsumeMessage
+### Run Kafka Test or Test Suite
 
 Expected result:
 Message is consumed and validated successfully.
