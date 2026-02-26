@@ -75,5 +75,3 @@ Expected result:
 Message is consumed and validated successfully.
 
 ---
-
-<img width="1762" height="861" alt="image" src="https://github.com/user-attachments/assets/90aaf79c-a4f5-4d41-b7c8-7e323cb0292c" />
