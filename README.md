@@ -22,9 +22,7 @@ Example:
 BASE_URL = https://gorest.co.in/public/v2  
 TOKEN = your_actual_token  
 
-3. Run Test Suite:  
-TS_API_CRUD
-
+3. Run Test Suite
 ---
 
 ## Part 2 – Kafka Consumer Testing
