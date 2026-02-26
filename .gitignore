@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+.cache/
+bin/
+Libs/
+Reports/
+Temp/
+output/
+!output/.gitkeep
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+.settings/
+.cache/
+settings/
+*.properties
+console.properties
+log.properties
